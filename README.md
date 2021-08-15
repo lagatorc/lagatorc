@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lagatorc
+- 👋 Hi, I’m @lagatorc (Colin Lagator)
 - 👀 I’m interested in Machine Learning
 - Please take a look around
 - You can find me on LinkedIn too @ https://www.linkedin.com/in/lagator/
